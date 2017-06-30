@@ -1,0 +1,8 @@
+STATUS  SERVERS
+[IPS]
+SERVING www.google.com
+SERVING www.facebook.com
+SERVING www.github.com
+SERVING www.thisisntgoingtobearealwebsite.com
+ARANDOMTEXT www.yahoo.com
+
